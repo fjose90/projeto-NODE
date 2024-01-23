@@ -27,3 +27,4 @@ const testarConexao = async () => {
 // Chama a função de teste
 testarConexao();
 export default pool;
+console.log();
